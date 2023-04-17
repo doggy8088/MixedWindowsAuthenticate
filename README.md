@@ -35,3 +35,9 @@
     點擊「取得 Windows 認證的 userid」按鈕去呼叫 Windows Authentication 底下的 API
 
     查看 alert 訊息是否顯示使用者 AD 帳號
+
+## 相關連結
+
+- [Configure Windows Authentication in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/windowsauth?view=aspnetcore-7.0&tabs=visual-studio&WT.mc_id=DT-MVP-4015686)
+- [奇技淫巧 - ASP.NET 同時支援 Form 及 Windows 驗證](https://blog.darkthread.net/blog/mix-form-win-auth/)
+- [ASP.Net 同時使用Windows Authentication與Forms Authentication混合認證 Mixed Security](https://blog.tenyi.com/2012/12/aspnet-windows-authenticationforms.html)
